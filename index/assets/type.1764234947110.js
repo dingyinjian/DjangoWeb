@@ -1,0 +1,1 @@
+import{X as e}from"./index.1764234947110.js";function s(t){return e({url:"/system/dict-type/",method:"get",params:t})}function u(t){return e({url:"/system/dict-type/",method:"post",data:t})}function d(t){return e({url:"/system/dict-type/"+t.id+"/",method:"put",data:t})}function p(t){return e({url:"/system/dict-type/"+t+"/",method:"delete"})}export{u as a,p as d,s as l,d as u};
